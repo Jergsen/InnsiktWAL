@@ -1,0 +1,4 @@
+.streamlit
+secrets.toml
+Firestore-key.json
+chat5.py
